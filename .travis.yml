@@ -4,9 +4,5 @@ before_install:
 rvm:
   - 2.4.1
 gemfile:
-  - gemfiles/Gemfile-rails-4.0-stable
-  - gemfiles/Gemfile-rails-4.1-stable
   - gemfiles/Gemfile-rails-4.2-stable
-  - gemfiles/Gemfile-rails-4.0
-  - gemfiles/Gemfile-rails-4.1
   - gemfiles/Gemfile-rails-4.2
